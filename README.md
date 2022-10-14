@@ -1,4 +1,9 @@
 # Semantic image segmentation for application in environment exploration
+
+**Author:** Marin Maletić<br>
+**Date created:** 01/05/2022<br>
+**Last modified:** 30/06/2022<br>
+
 ## Motivation
 The work was done as a part of the Bachelor's degree final thesis at Faculty of electrical engineering and computing, University of Zagreb.
 
